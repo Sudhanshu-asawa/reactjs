@@ -1,0 +1,41 @@
+.cardform{
+    width: 250px;
+    text-align: center;
+    font-size: xx-large;
+    margin-left: 39%;
+    margin-top: 3%;
+
+
+}
+.rccs__card--unknown > div {
+margin-top: 10%;
+}
+
+.cardform input{
+    font-size: large;
+    margin-top: 3%;
+    border-radius: 10px;
+
+}
+.cardform button{
+    font-size: large;
+    width: 200px;
+    margin: 5%;
+    padding: 2%;
+    background-color: grey;
+    color: white;
+    border-radius: 10px;
+    margin-left: 17%;
+}
+
+.cardform button:hover {
+    transform: scale(1.1);
+    transition-duration: 0.4s;
+
+}
+
+.cardform input:hover {
+    transform: scale(1.1);
+    transition-duration: 0.4s;
+
+}

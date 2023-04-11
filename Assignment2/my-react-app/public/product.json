@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "name": "Flute",
+    "description": "Radhe Flutes | Right Handed C Natural With Velvet Cover | Tuned With Tanpura A=440Hz | PVC Fiber ",
+    "price": 499,
+    "image": "images/image7.jpg"
+
+  },
+
+  {
+    "id": "2",
+    "name": "Piano",
+    "description": "Casio CTK-240 Musical Keyboard (Black) ",
+    "price": 4000,
+    "image": "images/image8.jpg"
+
+  },
+
+  {
+    "id": "3",
+    "name": "Clapbox",
+    "description": "Clapbox Adjustable Snare Cajon CB50- Oak Wood, (H:50 W:30 L:30) - 3 Internal Snares, black ",
+    "price": 5000,
+    "image": "images/image9.jpg"
+
+  },
+  {
+    "id": "4",
+    "name": "Guitar",
+    "description": "Kadence Frontier Jumbo Semi Acoustic Guitar With Die Cast Keys, Super Combo",
+    "price": 4999,
+    "image": "images/image10.jpg"
+
+  },
+
+  {
+    "id": "5",
+    "name": "Harmonium",
+    "description": "Xoz 9 Stopper 42 Key 2 Reed 440 Tuned Total Wood Musical Instrument Harmonium (Brown) ",
+    "price": 4999,
+    "image": "images/image11.jpg"
+
+  },
+
+  {
+    "id": "6",
+    "name": "Laptop",
+    "description": "Apple 2021 MacBook Pro (14-inch/35.97 cm, M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 1TB SSD) - Silver ",
+    "price": 49999,
+    "image": "images/image12.jpg"
+
+  }
+]
