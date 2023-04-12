@@ -1,3 +1,7 @@
+.billingpage{
+    background-color: #ececec;
+    height: 500px;
+}
 .form-container label{
     display: block;
     width: 90%;
@@ -5,9 +9,10 @@
     font-size: larger;
 
 }
-.billing-page img{
-    width: 100%;
+.billingpage img{
+    width: 30%;
     position: absolute;
+    margin: 2% 0% 0% 8%;
 }
 
 .form-container{
@@ -49,6 +54,3 @@
 }
 
 
-.contact{
-    width: 30%;
-}

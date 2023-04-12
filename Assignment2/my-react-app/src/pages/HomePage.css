@@ -8,6 +8,7 @@
 .productlist {
     display: flex;
     justify-content: center;
+    margin: 0% 4% 0% 4%;
 }
 
 .product {
