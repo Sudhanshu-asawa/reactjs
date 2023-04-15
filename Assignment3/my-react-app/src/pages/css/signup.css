@@ -154,3 +154,7 @@ h1 {
 .credits a:hover {
     opacity: 1;
 }
+.lnk{
+    text-decoration: none;
+    color: white;
+}

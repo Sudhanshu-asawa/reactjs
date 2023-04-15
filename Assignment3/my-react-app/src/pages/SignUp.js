@@ -128,6 +128,9 @@ function SignUp() {
                     Sign Up
                 </div>
             </button>
+            <Link to="/Login" className={"lnk"}>
+                <p className={"lnk"}>Already a User : Login</p>
+            </Link>
 
         </form>
     )
