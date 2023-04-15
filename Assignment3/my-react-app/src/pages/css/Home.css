@@ -1,0 +1,18 @@
+.container{
+    margin-top: 6%;
+}
+.container h1{
+    color: #7a8bbd;
+    padding: 2%;
+    font-family: "DejaVu Sans";
+    font-size: 35px;
+}
+
+.container .block-cube {
+    margin-top: 5% ;
+    width: 20%;
+}
+.container .text{
+    font-weight: bolder;
+    font-size: large;
+}

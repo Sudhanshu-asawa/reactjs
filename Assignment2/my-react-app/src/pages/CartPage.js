@@ -19,6 +19,7 @@ function Cart() {
 
         localStorage.setItem("cartItems", JSON.stringify(newCart));
     };
+
     const navigate = useNavigate();
 
     const handleIncrement = (index) => {

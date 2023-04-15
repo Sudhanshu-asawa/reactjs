@@ -1,6 +1,6 @@
 .about-us-page {
-    max-width: 800px;
-    margin: 0 auto;
+
+    margin: 0% 0% 0% 5%;
     font-family: Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
@@ -9,52 +9,46 @@
     margin-top: 5%;
     font-family: monospace;
 }
+.intro{
+    font-size: 50px;
+    font-family: "DejaVu Sans Mono";
+    background-color: #ececec;
+    width: 93%;
+    padding: 1%;
+    margin: 5% 5% 5% 0%;
+    border-radius: 50px;
 
-header {
+}
+.intro p{
+    margin-left: 5%;
+}
+.content{
     text-align: center;
-    margin-bottom: 50px;
+    margin: 6% 7% 5% 2% ;
 }
+.content p{
+    color:#848484;
 
-h1 {
-    font-size: 48px;
-    font-weight: bold;
-    margin: 0;
 }
+.flex{
+    display: flex;
+    background-color: #ececec;
+    width: 90%;
+    padding: 2%;
+    border-radius: 50px;
 
-main {
-    padding: 0 20px;
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-
-.intro {
-    text-align: center;
-    margin-bottom: 50px;
-    padding-top: 30px;
+.flex img{
+    width: 60%;
+    margin: 21% 0% 0% 17%;
 }
-
-section {
-    margin-bottom: 50px;
-    padding: 20px;
-    background-color: #ffcfcf1c;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+.imagefl{
+    width: 600px;
 }
-
-h2 {
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 20px;
+.container p{
+    font-weight: bolder;
 }
-
-ul {
-    list-style: disc;
-    margin-left: 20px;
-    margin-bottom: 20px;
+.container li{
+    list-style-type: circle !important;
+    margin-left: 8%;
 }
-
-li {
-    margin-bottom: 10px;
-}
-
